@@ -1,21 +1,17 @@
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.util.Scanner;
+import java.io.*;
 
 public class Main {
     public static void main(String[] args) {
-        File file = new File("Lincoln.txt");
-        int wordCount = 0;
         try {
-            Scanner scanner = new Scanner(file);
-            while (scanner.hasNext()) {
-                scanner.next();
-                wordCount++;
-            }
-            scanner.close();
-            System.out.println("The file " + file.getName() + " contains " + wordCount + " words.");
-        } catch (FileNotFoundException e) {
-            System.out.println("File not found, Check the name of the file or the file may be deleted or moved");
+            FileInputStream file =new FileInputStream("Lincoln.txt");
+            byte[] bytes = new byte[(int) file.available()];
+            file.read(bytes);
+            String content = new String(bytes);
+            String[] words = content.split("\\s+");
+            int wordCount = words.length;
+            System.out.println("The Lincoln file contains " + wordCount + " words.");
+        } catch (IOException e){
+            System.out.println(e.getMessage());
         }
     }
 }
