@@ -9,7 +9,6 @@ public class Main {
             Scanner scanner = new Scanner(file);
             int count = 0;
             while (scanner.hasNext()) {
-                String word = scanner.next();
                 count++;
             }
             System.out.println("The Lincoln file contains " + count + " words.");
