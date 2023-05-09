@@ -1,47 +1,44 @@
 import java.io.*;
 import java.net.URL;
+import java.util.*;
 
 public class FileManipulation {
-     File readFromWebToFile(String urlString) throws IOException {
-        URL url = new URL(urlString);
-        BufferedReader reader = new BufferedReader(new InputStreamReader(url.openStream()));
-        FileWriter writer = new FileWriter("Scores.txt");
+     String readFromWebToFile(String url) throws IOException {
+         URL fileUrl = new URL(url);
+         InputStream is = fileUrl.openStream();
+         String filePath = "Scores.txt";
+         FileOutputStream fos = new FileOutputStream(filePath);
 
-        String line;
-        while ((line = reader.readLine()) != null) {
-            writer.write(line + "\n");
-        }
-        reader.close();
-        writer.close();
-        return new File("Scores.txt");
+         byte[] buffer = new byte[1024];
+         int len;
+         while ((len = is.read(buffer)) != -1) {
+             fos.write(buffer, 0, len);
+         }
+         is.close();
+         fos.close();
+         return filePath;
     }
 
-     int getSum(File file) throws IOException{
-        BufferedReader bufferedReader = new BufferedReader(new FileReader(file));
-        String line;
-        int sum = 0;
-        while ((line = bufferedReader.readLine()) != null) {
-            String[] scores = line.split(" ");
-            for (String score : scores) {
-                sum += Integer.parseInt(score);
-            }
-        }
-        bufferedReader.close();
-        return sum;
+     int getSum(String filePath) throws IOException{
+         FileInputStream file =new FileInputStream(filePath);
+         Scanner scanner = new Scanner(file);
+         int sum = 0;
+         while (scanner.hasNextInt()) {
+             int score = scanner.nextInt();
+             sum += score;
+         }
+         return sum;
     }
 
-     int getAverage(File file) throws IOException{
-        BufferedReader bufferedReader = new BufferedReader(new FileReader(file));
-        String line;
-        int sum = 0 , count = 0;
-        while ((line = bufferedReader.readLine()) != null) {
-            String[] scores = line.split(" ");
-            for (String score : scores) {
-                sum += Integer.parseInt(score);
-                count++;
-            }
-        }
-        bufferedReader.close();
-        return sum/count;
+     int getAverage(String filePath) throws IOException{
+         FileInputStream file =new FileInputStream(filePath);
+         Scanner scanner = new Scanner(file);
+         int sum = 0 , count = 0;
+         while (scanner.hasNextInt()) {
+             int score = scanner.nextInt();
+             sum += score;
+             count++;
+         }
+         return sum / count;
     }
 }
