@@ -1,1 +1,4 @@
-Java is a programming language.
+Java is /a -programming ,language.
+Java is _easy.
+the file contains 8
+

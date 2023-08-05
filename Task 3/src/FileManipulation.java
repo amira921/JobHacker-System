@@ -3,7 +3,7 @@ import java.net.URL;
 import java.util.*;
 
 public class FileManipulation {
-     String readFromWebToFile(String url) throws IOException {
+     File readFromWebToFile(String url) throws IOException {
          URL fileUrl = new URL(url);
          InputStream is = fileUrl.openStream();
          String filePath = "Scores.txt";
@@ -16,10 +16,10 @@ public class FileManipulation {
          }
          is.close();
          fos.close();
-         return filePath;
+         return new File(filePath);
     }
 
-     int getSum(String filePath) throws IOException{
+     int getSum(File filePath) throws IOException{
          FileInputStream file =new FileInputStream(filePath);
          Scanner scanner = new Scanner(file);
          int sum = 0;
@@ -30,7 +30,7 @@ public class FileManipulation {
          return sum;
     }
 
-     int getAverage(String filePath) throws IOException{
+     int getAverage(File filePath) throws IOException{
          FileInputStream file =new FileInputStream(filePath);
          Scanner scanner = new Scanner(file);
          int sum = 0 , count = 0;
