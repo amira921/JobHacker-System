@@ -1,7 +1,7 @@
 public class SavingsAccount extends Account {
-    private double interestRate = 0.05; // assume the interest rate = %5
+    private final double interestRate = 0.05; // assume the interest rate = %5
 
-    public SavingsAccount(long accountNumber, String accountHolderName, double balance) {
+    public SavingsAccount(String accountNumber, String accountHolderName, double balance) {
         super(accountNumber, accountHolderName, balance);
     }
 

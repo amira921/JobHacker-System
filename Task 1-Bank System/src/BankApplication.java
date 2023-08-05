@@ -3,7 +3,7 @@ import java.util.*;
 public class BankApplication {
     static Bank bank = new Bank();
     static Scanner scanner;
-    static long accountNumber;
+    static String accountNumber;
     static String accountHolderName;
     static double balance , amount;
 
@@ -54,13 +54,14 @@ public class BankApplication {
             // The customer has 3 attempts to verify the account number.
             for(int i=0;i<3;i++){
                 System.out.print("Enter your account number: ");
-                accountNumber = scanner.nextLong();
+                accountNumber = scanner.next();
                 SavingsAccount account = bank.findAccount(accountNumber);
 
                 if (account == null) {
                     System.out.println("Account not found, try again!");
                     continue;
                 }
+
 
                 while (true) {
                     System.out.println("---------------------------------------------");
@@ -125,7 +126,7 @@ public class BankApplication {
                  switch (choice){
                      case 1:
                          System.out.print("Enter account number: ");
-                         accountNumber = scanner.nextLong();
+                         accountNumber = scanner.nextLine();
                          scanner.nextLine(); // consume newline
                          System.out.print("Enter account holder name: ");
                          accountHolderName = scanner.nextLine();

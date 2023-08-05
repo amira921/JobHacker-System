@@ -1,15 +1,15 @@
 public class Account {
-    private long accountNumber;
+    private String accountNumber;
     private String accountHolderName;
     private double balance;
 
-    public Account(long accountNumber, String accountHolderName,double balance) {
+    public Account(String accountNumber, String accountHolderName,double balance) {
         this.accountNumber = accountNumber;
         this.accountHolderName = accountHolderName;
         this.balance = balance;
     }
 
-    public long getAccountNumber() {
+    public String getAccountNumber() {
         return accountNumber;
     }
 

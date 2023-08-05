@@ -1,16 +1,17 @@
 import java.util.ArrayList;
 public class Bank {
-    ArrayList<SavingsAccount>accounts = new ArrayList<>();
+    ArrayList<SavingsAccount>accounts;
     Bank(){
+        accounts = new ArrayList<>();
     }
     public void addAccount(SavingsAccount account) {
         accounts.add(account);
         System.out.println("Account added successfully!");
     }
 
-    public SavingsAccount findAccount(long accountNumber) {
+    public SavingsAccount findAccount(String accountNumber) {
         for (SavingsAccount account: accounts)
-            if (account.getAccountNumber() == accountNumber) return account;
+            if (account.getAccountNumber().equals(accountNumber)) return account;
         return null;
     }
 
