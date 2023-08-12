@@ -1,7 +1,7 @@
 import java.util.*;
-class set {
+public class LinkedHashSetOperations {
     public static void main(String[] args) {
-        SetOperations operation = new SetOperations();
+        linkedhashset operation = new linkedhashset();
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter the number of tests: ");
@@ -14,52 +14,60 @@ class set {
             }
         }
     }
-    private static void chooseOperation(SetOperations operation){
+    private static void chooseOperation(linkedhashset operations){
         int number;
         Scanner scan = new Scanner(System.in);
-        System.out.print("Enter an operation: ");
-        String query = scan.next();
 
-        switch (query) {
+        System.out.print("Enter an operation: ");
+        String operation = scan.next();
+
+        switch (operation) {
             case "a":
                 number = scan.nextInt();
-                operation.addValue(number);
+                operations.addValue(number);
                 break;
 
             case "b":
-                operation.printSortedSet();
+                operations.printSortedLinkedHashSet();
                 break;
 
             case "c":
                 number = scan.nextInt();
-                operation.removeElement(number);
+                operations.removeElement(number);
                 break;
 
             case "d":
                 number = scan.nextInt();
-                operation.findNumber(number);
+                operations.findNumber(number);
                 break;
 
             case "e":
-                operation.getSize();
+                operations.getSize();
                 break;
+
+            case "f":
+                operations.printElement();
 
             default:
                 System.out.println("Choose a valid option");
         }
     }
-    private static class SetOperations{
-        Set<Integer> operations;
-        public SetOperations(){
-            operations = new HashSet<>();
+    private static class linkedhashset{
+        LinkedHashSet<Integer> operations;
+        public linkedhashset(){
+            operations = new LinkedHashSet<>();
         }
         private void addValue(int number){
             operations.add(number);
         }
-        private void printSortedSet(){
+        private void printSortedLinkedHashSet(){
             List<Integer> sortedNumbers = new ArrayList<>(operations);
             Collections.sort(sortedNumbers);
             for (Integer n : sortedNumbers) System.out.print(n + " ");
+            System.out.println();
+        }
+        private void printElement(){
+            for(Integer item: operations) System.out.print(item + " ");
             System.out.println();
         }
         private void removeElement(int number){
