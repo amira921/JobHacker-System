@@ -13,7 +13,7 @@
 2. Start Apache and MYSQL modules.
 3. Open phpMyAdmin.
 4. Create a new database
-5. Import [db file](JDBC Tasks/DatabaseTask1/db.sql).
+5. Import [db file](https://github.com/amira921/JobHacker-System/blob/JDBCTasks/JDBC%20Tasks/DatabaseTask1/db.sql).
 <center>
 
 #### SQL Code in db file
