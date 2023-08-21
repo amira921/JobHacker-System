@@ -24,6 +24,3 @@ Singleton class is created for the database that has only one instance and provi
 
 **UML diagram**
 <center><img src="class diagram.PNG" width=300 higth=300></center>
-
-
-
