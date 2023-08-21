@@ -2,7 +2,7 @@
 
 ## Task 1
 
- Java application for connect to a database on MySQL Server and execute a query which selects numbers of fields from a table and print it with any specific format, by using load a specific driver and get the connection using DriverManager class.
+ Java application for connecting to a database on MySQL Server and executing a query which selects numbers of fields from a table and prints it with any specific format, by using load a specific driver and getting the connection using DriverManager class.
 
 <center> <img src="screenshot.PNG"> </center>
 
@@ -13,7 +13,7 @@
 2. Start Apache and MYSQL modules.
 3. Open phpMyAdmin.
 4. Create a new database
-5. Import [db file]().
+5. Import [db file](JDBC Tasks/DatabaseTask1/db.sql).
 <center>
 
 #### SQL Code in db file
@@ -40,7 +40,7 @@ INSERT INTO `classroom` (`Id`, `Name`, `GPA`, `Gender`) VALUES
 
 ## Java Application
 Singleton pattern used for database class.
-Singleton class created for database that has only one instance and provides a global point of access to it, it Saves memory because object is not created at each request, only single instance is reused again and again.
+Singleton class is created for the database that has only one instance and provides a global point of access to it, it Saves memory because the object is not created at each request, only a single instance is reused again and again.
 
 **UML diagram**
 <center><img src="class diagram.PNG" width=300 higth=300></center>
