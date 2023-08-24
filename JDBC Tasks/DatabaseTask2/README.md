@@ -26,4 +26,4 @@ Singleton pattern used for database class.
 Singleton class is created for the database that has only one instance and provides a global point of access to it, it Saves memory because the object is not created at each request, only a single instance is reused again and again.
 
 **UML diagram**
-<center><img src="UML Diagram.PNG" width=300 higth=300></center>
+<center><img src="UML Diagram.PNG"></center>
