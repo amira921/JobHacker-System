@@ -51,11 +51,11 @@ JobHacker repository is for Community Tasks Delivery (Java Developer Track)
   - [Two Sum](https://leetcode.com/problems/two-sum/)
   - [longest-common-prefix](https://leetcode.com/problems/longest-common-prefix) 
   - [check-if-the-sentence-is-pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram) 
-* Bonus Task
+* Bonus Task:
   - [Book](https://drive.google.com/file/d/185hMdG0uZD6AZTwksk_FEeSUICWw7qYZ/view)
-        - Ch9 [ 9.1, 9.2, 9.4, 9.5, 9.6, 9.13 ]
-	- Ch10 [ 10.3]
-        - Ch11 [ 11.1 ]
+     * Ch9: 9.1, 9.2, 9.4, 9.5, 9.6, 9.13
+     * Ch10: 10.3
+     * Ch11: 11.1
 
 
 
