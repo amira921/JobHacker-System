@@ -4,7 +4,9 @@
 
  Java application for connecting to a database on MySQL Server and executing a query which selects numbers of fields from a table and prints it with any specific format, by using load a specific driver and getting the connection using DriverManager class.
 
-<center> <img src="screenshot.PNG"> </center>
+<center> <img src="screenshot.PNG" width=700 length=300> </center>
+<center> <img src="MYSQL screenshot.PNG" width=700 length=300> </center>
+
 
 ## Project Description
 
