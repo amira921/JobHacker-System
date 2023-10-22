@@ -373,10 +373,9 @@ Read the number again if the input is incorrect.
         <h2>2. Servlet & JSP</h2>
     </summary>
     <p>
-1. Study
-   * [Servlet&JSP](https://www.youtube.com/watch?v=OuBUUkQfBYM)
-
-[Task](https://docs.google.com/document/d/1BVLNxgQGkzgAKSR44WnSB61Ca_eIaKghR-lt4OoNR2s/edit)
+        
+1. [Study](https://www.youtube.com/watch?v=OuBUUkQfBYM)
+2. [Task](https://docs.google.com/document/d/1BVLNxgQGkzgAKSR44WnSB61Ca_eIaKghR-lt4OoNR2s/edit)
 
 </p>
 </details>
@@ -386,6 +385,7 @@ Read the number again if the input is incorrect.
         <h2>XML & Maven</h2>
     </summary>
     <p>
+        
 1. Study
    * [XML playlist](https://www.youtube.com/watch?v=1JblVElt5K0&list=PLhW3qG5bs-L9DloLUPwC3GdFimY5Ce_gS&index=1)
    * [XML-Recommended Arabic video](https://www.youtube.com/watch?v=shCbNDksU68&list=PLNkp62KpzogN8RlgH5K-WzGglXvZJ06iK&index=1)
@@ -404,8 +404,9 @@ Read the number again if the input is incorrect.
         <h2>1. Spring Introduction</h2>
     </summary>
     <p>
-[Study](https://www.youtube.com/watch?v=JuzsKGn4z4U)
-Task: In the Video
+        
+1. [Study](https://www.youtube.com/watch?v=JuzsKGn4z4U)
+2. Task: In the Video
 </p>
 </details>
 
@@ -414,6 +415,7 @@ Task: In the Video
         <h2>2. Spring Core</h2>
     </summary>
     <p>
+        
 [Study](https://www.youtube.com/watch?v=GB8k2-Egfv0&list=PLC97BDEFDCDD169D7)
     </p>
 </details>
@@ -423,6 +425,7 @@ Task: In the Video
         <h2>3. Spring Boot</h2>
     </summary>
     <p>
+        
 [Study](https://www.youtube.com/watch?v=msXL2oDexqw&list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x&index=1)
     </p>
 </details>
@@ -464,4 +467,4 @@ Task: In the Video
 </p>
 </details>
 
-# [Spring all resources](https://drive.google.com/drive/folders/19kztglIOL6YEva1rvMA_lRZkNb5Dec_V)
+## [Spring all resources](https://drive.google.com/drive/folders/19kztglIOL6YEva1rvMA_lRZkNb5Dec_V)
