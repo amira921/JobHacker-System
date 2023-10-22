@@ -1,6 +1,6 @@
 <h1 align="center">JobHacker</h1>
 <p align="center" width="100%">
-    <img width="33%" src="Logo.jpg">
+    <img width="33%" src="Logo.png">
 </p>
 <p align="center">JobHacker repository is for Community Tasks Delivery (Java Developer Track)</p>
 
