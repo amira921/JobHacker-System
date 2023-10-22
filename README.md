@@ -6,8 +6,12 @@
 
 <h1 align="center">Java Core</h1>
 
-## 1. Basics
-
+<details>
+    <summary>
+        <h2>1. Basics</h2>
+    </summary>
+    <p>
+        
 1. Setup Development Environment:
    * [JDK](https://www.oracle.com/eg/java/technologies/javase/javase8-archive-downloads.html)
    *  [Java IDE](https://www.jetbrains.com/idea/download/#section=windows)
@@ -33,9 +37,14 @@
    * [Column in Array](https://www.beecrowd.com.br/judge/en/problems/view/1182)
    * [Below the Main Diagonal](https://www.beecrowd.com.br/judge/en/problems/view/1184)
 
+</p>
+</details>
 
-
-## 2. OOP & UML
+<details>
+    <summary>
+        <h2>2. OOP & UML</h2>
+    </summary>
+    <p>
 
 1. Study
    * [Java Object Class](https://www.javatpoint.com/java-oops-concepts)
@@ -59,9 +68,14 @@
          * Ch10: 10.3
          * Ch11: 11.1
 
+</p>
+</details>
 
-
-## 3. String
+<details>
+    <summary>
+        <h2>3. String</h2>
+    </summary>
+    <p>
 
 1. Study: 
 [String](https://www.javatpoint.com/java-string)
@@ -74,9 +88,14 @@
       * [OOP-Task2](https://docs.google.com/document/d/1Cf2GD1_tTXYkmrTzHTCL7RGtYG9N_UeIFeSCMcVD7x0/edit)
    * Bonus Task: Write a program that prints the number of occurrences of the given word in the string, Perform the above task using only methods of the String class (Using 2 ways) and Perform the above task using the StringTokenizer class.
 
+</p>
+</details>
 
-
-## 4. Exceptions & IO
+<details>
+    <summary>
+        <h2>4. Exceptions & IO</h2>
+    </summary>
+    <p>
 
 1. Study
    * [Java Exceptions](https://www.javatpoint.com/exception-handling-in-java)
@@ -102,8 +121,15 @@ Read the number again if the input is incorrect.
          * Make a function(getSum) that will take a file and return an integer value representing the sum of the values inside the file.
          * Make a function (getAverage) that will take a file and return an integer value representing the average of the values inside the file.
 
+</p>
+</details>
 
-## 5. Collections
+<details>
+    <summary>
+        <h2>5. Collections</h2>
+    </summary>
+    <p>
+
 1. Study:
    * [Java Collections](https://www.javatpoint.com/collections-in-java)
    * Sessions:
@@ -115,10 +141,15 @@ Read the number again if the input is incorrect.
   * [Task1](https://drive.google.com/file/d/1rn295_TuKJdRZcFesjPrWWdJ45aSh36J/view?usp=drive_link)
   * [Task2](https://drive.google.com/file/d/1PYrBdfZ5a9sUECgCnyT2YjznYycIGzBE/view?usp=sharing)
 
+</p>
+</details>
 
 
-
-## 6. Java 8
+<details>
+    <summary>
+        <h2>6. Java 8</h2>
+    </summary>
+    <p>
 
 1. Study: 
   * [Java 8](https://www.javatpoint.com/java-8-features)
@@ -127,9 +158,15 @@ Read the number again if the input is incorrect.
 
 [2. Tasks](https://docs.google.com/document/d/1q9_URMwbQwck6M2KP96RfMC62CSSiaVuHsdkAJQYBzI/edit)  
 
+</p>
+</details>
 
 
-## 7. MySQL & JDBC
+<details>
+    <summary>
+        <h2>7. MySQL & JDBC</h2>
+    </summary>
+    <p>
 
 1. Study:
   * [MySQL](https://www.w3schools.com/mysql/default.asp)
@@ -138,6 +175,8 @@ Read the number again if the input is incorrect.
 
 [2. Tasks](https://docs.google.com/document/d/1w7HEMjEj_47cuJWUTJ2mwBNB9-dAk2gNTeLnv7QpJIg/edit?usp=drive_link)
 
+</p>
+</details>
 
 
 
@@ -146,7 +185,12 @@ Read the number again if the input is incorrect.
 
 <h1 align="center">Recap</h1>
 
-## OCA & OCP Books
+<details>
+    <summary>
+        <h2>OCA & OCP Books</h2>
+    </summary>
+    <p>
+
 * OCA
    * [ch1](https://drive.google.com/file/d/1UaLAZZW6yIr_gosn5celEPZkYY0V14kB/view)
    * [ch2-part1](https://drive.google.com/file/d/1BeerDgHt24S71icVK_Hj566bKXdX4I3r/view)
@@ -168,20 +212,31 @@ Read the number again if the input is incorrect.
    * ch5
    * ch6
    * ch10
+ </p>
+</details>     
 
-## Clean Code Book sessions
+<details>
+    <summary>
+        <h2>Clean Code Book sessions</h2>
+    </summary>
+    <p>
+
    * [Clean Code Book](https://drive.google.com/file/d/1_GcS4cO4i1KgG4IH4krJ6MUVYjFm_9z-/view)
    * [Clean Code Presentation - (Ch01 to Ch07)](https://docs.google.com/presentation/d/1WbniW_8oUJtMdEA5CVu5hxgaUQ0w89xrLG0ih7vvEgo/edit?usp=sharing)
    * [playlist](https://www.youtube.com/watch?v=WnoZa933kq0&list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX&pp=iAQB)
    * [session](https://drive.google.com/drive/folders/1GQT-hikYJQ-jDoD3-atBmknIT2Kc3Xum)
 
-
-
+</p>
+</details> 
 
 
 <h1 align="center">Important Topics</h1>
+<details>
+    <summary>
+        <h2>Agile sessions</h2>
+    </summary>
+    <p>
 
-## Agile sessions
    * Day 1
       * [part 1](https://elengmenofiaedu-my.sharepoint.com/:v:/g/personal/amir_ibrahim_el-eng_menofia_edu_eg/EeWdQpjH9MhGgQseQZOOoswBXgFDVt4byhT49qaQROYdXA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=FQ039L)
       * [part 2](https://elengmenofiaedu-my.sharepoint.com/:v:/g/personal/amir_ibrahim_el-eng_menofia_edu_eg/ESIMwTTQh7NEoF5yl4x4FsEBr4W55elLxs6QFcyxm--dBg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=XgdwAu)
@@ -193,15 +248,29 @@ Read the number again if the input is incorrect.
       * [Presentation](https://drive.google.com/file/d/1PfCn5h_1gnV5kI6EddrteJBAyPdWXf50/view?usp=drive_link)
 
 ## [Task](https://jobhacker-community.slack.com/files/U050Y2C5YJU/F05PQU6L9KL/image.png)
+</p>
+</details>
 
-## HTML & CSS
+<details>
+    <summary>
+        <h2>HTML & CSS</h2>
+    </summary>
+    <p>
+
 * Study
    * [HTML](https://www.w3schools.com/html/)
    * [HTML tutorial](https://www.youtube.com/watch?v=6QAELgirvjs&list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
    * [CSS](https://www.w3schools.com/w3css/defaulT.asp)
    * [CSS tutorial](https://www.youtube.com/watch?v=X1ulCwyhCVM&list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)
+</p>
+</details>
 
-## Angular
+<details>
+    <summary>
+        <h2>Angular</h2>
+    </summary>
+    <p>
+
 * Day 1
    * [Part 1](https://elengmenofiaedu-my.sharepoint.com/:v:/g/personal/amir_ibrahim_el-eng_menofia_edu_eg/EQgezZPP_ktLuGmIqbtCNKkBJOgtWjCdwLVUPsv0Bh3u2A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=cUQrqI)
    * [Part 2](https://elengmenofiaedu-my.sharepoint.com/:v:/g/personal/amir_ibrahim_el-eng_menofia_edu_eg/EXKKCi6Nit5IgUHE-ItnBBABuhAVBGVqg-Vx-vfAZamFDQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=QrBWgu)
@@ -218,35 +287,66 @@ Read the number again if the input is incorrect.
 
 ## [Task](https://drive.google.com/drive/folders/1m1BLzKENzypThEXD5uaz55259bJnfmah?usp=sharing)
 
-## Solid Principles
+</p>
+</details>
+
+<details>
+    <summary>
+        <h2>Solid Principles</h2>
+    </summary>
+    <p>
+
    * [Article](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
    * [Article](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/)
    * [Video](https://lnkd.in/daaHPJF)
    * [Video](https://lnkd.in/dFB8FgNK)
 
+</p>
+</details>
 
-## Design Patterns
+<details>
+    <summary>
+        <h2> Design Patterns</h2>
+    </summary>
+    <p>
+
   * [Singleton, Factory, builder, adapter](https://refactoring.guru/)
   * [video 12, 13, 14, 15, 17](https://www.youtube.com/watch?v=-UQND--CVew&list=PLd-dOEgzBpGnt3GuEszo_piQq52XSqAmj)
+</p>
+</details>
 
 
+<details>
+    <summary>
+        <h2>Soft Skills sessions</h2>
+    </summary>
+    <p>
 
-<h1 align="center">Skills</h1>
-
-## Soft Skills sessions
    * [Session of CVs](https://drive.google.com/drive/folders/1niQRKy6EPZzvVbL_h-hPq76e_35JU1Pr?usp=sharing)
    * [Soft Skills](https://shorturl.at/nsHOU)
    * [Samples of mail body for jobs](https://docs.google.com/document/d/1EFZtdqmbJq2ZgscTJkdLsxgjsbT6VMPByOsGlfhGkPA/edit?usp=sharing)
+</p>
+</details>
 
-## Technical skills
+<details>
+    <summary>
+        <h2>Technical skills</h2>
+    </summary>
+    <p>
+        
    * [interview Questions](https://www.interviewbit.com/technical-interview-questions/)
    * [cheat sheet](https://www.linkedin.com/posts/yash-garg-5333a5215_java-cheet-sheet-activity-7076764331412963328--AmU?utm_source=share&utm_medium=member_ios)
    * [Recommend Arabic videos resource from #030 JAVA - Introduction to Object-Oriented](https://www.youtube.com/playlist?list=PLCInYL3l2AagY7fFlhCrjpLiIFybW3yQv)
-
+</p>
+</details>
 
 <h1 align="center">Web Basics</h1>
+<details>
+    <summary>
+        <h2>1. Web Overview</h2>
+    </summary>
+    <p>
 
-## 1. Web Overview
 1. Study
    * [Web overview](https://www.youtube.com/watch?v=XBu54nfzxAQ)
    * Client Server Architecture (tiers)
@@ -265,44 +365,94 @@ Read the number again if the input is incorrect.
       * [Video 2](https://www.youtube.com/watch?v=it8ybkQuAh8)
    * RESTFull APIs
       * [Tutorial: from 1 to 6](https://www.youtube.com/watch?v=ST8XxjOTIsg&list=PLTCrU9sGybupzS5-3iYTsYUI1emBDKdHu)
+</p>
+</details>
 
-## 2. Servlet & JSP
+<details>
+    <summary>
+        <h2>2. Servlet & JSP</h2>
+    </summary>
+    <p>
 1. Study
    * [Servlet&JSP](https://www.youtube.com/watch?v=OuBUUkQfBYM)
 
 [Task](https://docs.google.com/document/d/1BVLNxgQGkzgAKSR44WnSB61Ca_eIaKghR-lt4OoNR2s/edit)
 
-## XML & Maven
+</p>
+</details>
+
+<details>
+    <summary>
+        <h2>XML & Maven</h2>
+    </summary>
+    <p>
 1. Study
    * [XML playlist](https://www.youtube.com/watch?v=1JblVElt5K0&list=PLhW3qG5bs-L9DloLUPwC3GdFimY5Ce_gS&index=1)
    * [XML-Recommended Arabic video](https://www.youtube.com/watch?v=shCbNDksU68&list=PLNkp62KpzogN8RlgH5K-WzGglXvZJ06iK&index=1)
    * [Maven Playlist](https://www.youtube.com/playlist?list=PLEAQNNR8IlB7uvr8EJbCNJq2I82A8cqE7)
    * [Maven Playlist 2](https://www.youtube.com/watch?v=Xatr8AZLOsE&feature=youtu.be)
    * [Maven-Recommended Arabic video](https://www.youtube.com/watch?v=miQpu1l_kt8&list=PLNkp62KpzogM0UtIhpdhhAHV1eGgeYyoU)
-
+</p>
+</details>
 
 
       
 <h1 align="center">Spring Boot</h1>
 
-## 1. Spring Introduction
+<details>
+    <summary>
+        <h2>1. Spring Introduction</h2>
+    </summary>
+    <p>
 [Study](https://www.youtube.com/watch?v=JuzsKGn4z4U)
-
 Task: In the Video
+</p>
+</details>
 
-## 2. Spring Core
+<details>
+    <summary>
+        <h2>2. Spring Core</h2>
+    </summary>
+    <p>
 [Study](https://www.youtube.com/watch?v=GB8k2-Egfv0&list=PLC97BDEFDCDD169D7)
+    </p>
+</details>
 
-## 3. Spring Boot
+<details>
+    <summary>
+        <h2>3. Spring Boot</h2>
+    </summary>
+    <p>
 [Study](https://www.youtube.com/watch?v=msXL2oDexqw&list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x&index=1)
+    </p>
+</details>
 
-## 4. Spring MVC
+<details>
+    <summary>
+        <h2>4. Spring MVC</h2>
+    </summary>
+    <p>
+    
 [Study](https://www.youtube.com/watch?v=7dr4fOEgM1c)
+    </p>
+</details>
 
-## 5. Hibernate
+<details>
+    <summary>
+        <h2>5. Hibernate</h2>
+    </summary>
+    <p>
+    
 [Study](https://www.youtube.com/watch?v=Yv2xctJxE-w&list=PL4AFF701184976B25)
-  
-## 6. Notes
+    </p>
+</details>
+
+<details>
+    <summary>
+        <h2>6. Notes</h2>
+    </summary>
+    <p>
+        
    * [Spring Boot Topics](https://youlearncode.com/programming/spring-boot/)
    * Spring Boot Annotations Cheat Sheet:
       - [sheet 1](https://www.javaguides.net/2023/07/spring-boot-and-spring-framework.html)
@@ -311,5 +461,7 @@ Task: In the Video
    * Spring Boot Question and Answer:(important for interviews)
       - [QA 1](https://www.linkedin.com/feed/update/urn:li:activity:7086194622086987776/?updateEntit[…]pdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7086194622086987776%29)
       - [QA 2](https://www.linkedin.com/feed/update/urn:li:activity:7035567968470093825/)
-        
+</p>
+</details>
+
 # [Spring all resources](https://drive.google.com/drive/folders/19kztglIOL6YEva1rvMA_lRZkNb5Dec_V)
