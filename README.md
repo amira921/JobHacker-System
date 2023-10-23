@@ -1,8 +1,6 @@
 <h1 align="center">JobHacker</h1>
-<p align="center" width="100%">
-    <img width="33%" src="Logo.png">
-</p>
 <p align="center">JobHacker repository is for Community Tasks Delivery (Java Developer Track)</p>
+<p align="center" width="100%"><img width="33%" src="Logo.png"></p>
 
 <h1 align="center">Java Core</h1>
 
@@ -215,131 +213,6 @@ Read the number again if the input is incorrect.
  </p>
 </details>     
 
-<details>
-    <summary>
-        <h2>Clean Code Book sessions</h2>
-    </summary>
-    <p>
-
-   * [Clean Code Book](https://drive.google.com/file/d/1_GcS4cO4i1KgG4IH4krJ6MUVYjFm_9z-/view)
-   * [Clean Code Presentation - (Ch01 to Ch07)](https://docs.google.com/presentation/d/1WbniW_8oUJtMdEA5CVu5hxgaUQ0w89xrLG0ih7vvEgo/edit?usp=sharing)
-   * [playlist](https://www.youtube.com/watch?v=WnoZa933kq0&list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX&pp=iAQB)
-   * [session](https://drive.google.com/drive/folders/1GQT-hikYJQ-jDoD3-atBmknIT2Kc3Xum)
-
-</p>
-</details> 
-
-
-<h1 align="center">Important Topics</h1>
-<details>
-    <summary>
-        <h2>Agile sessions</h2>
-    </summary>
-    <p>
-
-   * Day 1
-      * [part 1](https://elengmenofiaedu-my.sharepoint.com/:v:/g/personal/amir_ibrahim_el-eng_menofia_edu_eg/EeWdQpjH9MhGgQseQZOOoswBXgFDVt4byhT49qaQROYdXA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=FQ039L)
-      * [part 2](https://elengmenofiaedu-my.sharepoint.com/:v:/g/personal/amir_ibrahim_el-eng_menofia_edu_eg/ESIMwTTQh7NEoF5yl4x4FsEBr4W55elLxs6QFcyxm--dBg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=XgdwAu)
-      * [Presentation](https://drive.google.com/file/d/1pVRyH4NIsoHoiVvH7rb7fmDcn-4gqjH6/view?usp=drive_link)
-
-   * Day 2
-      * [part 1](https://elengmenofiaedu-my.sharepoint.com/:v:/g/personal/amir_ibrahim_el-eng_menofia_edu_eg/ESOLOaPbTR1Enl-u3iIU4qwB0AdHAa-xen3XHT4a2FTzgg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=Ci1FrK)
-      * [part 2](https://elengmenofiaedu-my.sharepoint.com/:v:/g/personal/amir_ibrahim_el-eng_menofia_edu_eg/EWBRMDe0_KlLpVODcTp7pzsBit1RgZQuIdD8hRuWSAfxHg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=QHtzin)
-      * [Presentation](https://drive.google.com/file/d/1PfCn5h_1gnV5kI6EddrteJBAyPdWXf50/view?usp=drive_link)
-
-## [Task](https://jobhacker-community.slack.com/files/U050Y2C5YJU/F05PQU6L9KL/image.png)
-</p>
-</details>
-
-<details>
-    <summary>
-        <h2>HTML & CSS</h2>
-    </summary>
-    <p>
-
-* Study
-   * [HTML](https://www.w3schools.com/html/)
-   * [HTML tutorial](https://www.youtube.com/watch?v=6QAELgirvjs&list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
-   * [CSS](https://www.w3schools.com/w3css/defaulT.asp)
-   * [CSS tutorial](https://www.youtube.com/watch?v=X1ulCwyhCVM&list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)
-</p>
-</details>
-
-<details>
-    <summary>
-        <h2>Angular</h2>
-    </summary>
-    <p>
-
-* Day 1
-   * [Part 1](https://elengmenofiaedu-my.sharepoint.com/:v:/g/personal/amir_ibrahim_el-eng_menofia_edu_eg/EQgezZPP_ktLuGmIqbtCNKkBJOgtWjCdwLVUPsv0Bh3u2A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=cUQrqI)
-   * [Part 2](https://elengmenofiaedu-my.sharepoint.com/:v:/g/personal/amir_ibrahim_el-eng_menofia_edu_eg/EXKKCi6Nit5IgUHE-ItnBBABuhAVBGVqg-Vx-vfAZamFDQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=QrBWgu)
-
-* Day 2
-   * [Part 1](https://elengmenofiaedu-my.sharepoint.com/:v:/g/personal/amir_ibrahim_el-eng_menofia_edu_eg/EUuyzpibe1ZGjtgCo3nc-_cBbjTdGfgpi-l-WHrplpfzmA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=xWpTC6)
-   * [Part 2](https://elengmenofiaedu-my.sharepoint.com/:v:/g/personal/amir_ibrahim_el-eng_menofia_edu_eg/EX37WkaP9aBGg7ojSSuDQK4B38S4yW2oaSpIzRWvHiLvFA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=ANCqul)
-
-* Day 3
-   * [Part 1](https://elengmenofiaedu-my.sharepoint.com/:v:/g/personal/amir_ibrahim_el-eng_menofia_edu_eg/Ef4guJe6rUhOvLC-8EIjj7ABUQewQK4p6SoWtqxzJWPswA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=CW1RfY)
-   * [Part 2](https://elengmenofiaedu-my.sharepoint.com/:v:/g/personal/1900193_el-eng_menofia_edu_eg/EaPYvr_ucONGn0gvPdTckH0B4Nu1JGBaj9zY_oD0KyrGJg?e=YICu5v&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
-   * [Part 3](https://elengmenofiaedu-my.sharepoint.com/:v:/g/personal/1900193_el-eng_menofia_edu_eg/ER9w49lWzWFEpYhb3-XyVgIBlQ7JjwLQPIbc3XI4kiiW-Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=64ijHU)
-   * [Part 4](https://elengmenofiaedu-my.sharepoint.com/:v:/g/personal/amir_ibrahim_el-eng_menofia_edu_eg/ESmFmnPDgY1Pg6qaE4UtOwYBNJF3k3dVe2mEVwFmRenu3w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=z2h0je)
-
-## [Task](https://drive.google.com/drive/folders/1m1BLzKENzypThEXD5uaz55259bJnfmah?usp=sharing)
-
-</p>
-</details>
-
-<details>
-    <summary>
-        <h2>Solid Principles</h2>
-    </summary>
-    <p>
-
-   * [Article](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
-   * [Article](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/)
-   * [Video](https://lnkd.in/daaHPJF)
-   * [Video](https://lnkd.in/dFB8FgNK)
-
-</p>
-</details>
-
-<details>
-    <summary>
-        <h2> Design Patterns</h2>
-    </summary>
-    <p>
-
-  * [Singleton, Factory, builder, adapter](https://refactoring.guru/)
-  * [video 12, 13, 14, 15, 17](https://www.youtube.com/watch?v=-UQND--CVew&list=PLd-dOEgzBpGnt3GuEszo_piQq52XSqAmj)
-</p>
-</details>
-
-
-<details>
-    <summary>
-        <h2>Soft Skills sessions</h2>
-    </summary>
-    <p>
-
-   * [Session of CVs](https://drive.google.com/drive/folders/1niQRKy6EPZzvVbL_h-hPq76e_35JU1Pr?usp=sharing)
-   * [Soft Skills](https://shorturl.at/nsHOU)
-   * [Samples of mail body for jobs](https://docs.google.com/document/d/1EFZtdqmbJq2ZgscTJkdLsxgjsbT6VMPByOsGlfhGkPA/edit?usp=sharing)
-</p>
-</details>
-
-<details>
-    <summary>
-        <h2>Technical skills</h2>
-    </summary>
-    <p>
-        
-   * [interview Questions](https://www.interviewbit.com/technical-interview-questions/)
-   * [cheat sheet](https://www.linkedin.com/posts/yash-garg-5333a5215_java-cheet-sheet-activity-7076764331412963328--AmU?utm_source=share&utm_medium=member_ios)
-   * [Recommend Arabic videos resource from #030 JAVA - Introduction to Object-Oriented](https://www.youtube.com/playlist?list=PLCInYL3l2AagY7fFlhCrjpLiIFybW3yQv)
-</p>
-</details>
-
 <h1 align="center">Web Basics</h1>
 <details>
     <summary>
@@ -468,3 +341,122 @@ Read the number again if the input is incorrect.
 </details>
 
 ## [Spring all resources](https://drive.google.com/drive/folders/19kztglIOL6YEva1rvMA_lRZkNb5Dec_V)
+
+
+<h1 align="center">Important Topics</h1>
+
+<details>
+    <summary>
+        <h2>Clean Code Book sessions</h2>
+    </summary>
+    <p>
+
+   * [Clean Code Book](https://drive.google.com/file/d/1_GcS4cO4i1KgG4IH4krJ6MUVYjFm_9z-/view)
+   * [Clean Code Presentation - (Ch01 to Ch07)](https://docs.google.com/presentation/d/1WbniW_8oUJtMdEA5CVu5hxgaUQ0w89xrLG0ih7vvEgo/edit?usp=sharing)
+   * [playlist](https://www.youtube.com/watch?v=WnoZa933kq0&list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX&pp=iAQB)
+   * [session](https://drive.google.com/drive/folders/1GQT-hikYJQ-jDoD3-atBmknIT2Kc3Xum)
+
+</p>
+</details> 
+<details>
+    <summary>
+        <h2>Agile sessions</h2>
+    </summary>
+    <p>
+
+   * Day 1
+      * [part 1](https://elengmenofiaedu-my.sharepoint.com/:v:/g/personal/amir_ibrahim_el-eng_menofia_edu_eg/EeWdQpjH9MhGgQseQZOOoswBXgFDVt4byhT49qaQROYdXA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=FQ039L)
+      * [part 2](https://elengmenofiaedu-my.sharepoint.com/:v:/g/personal/amir_ibrahim_el-eng_menofia_edu_eg/ESIMwTTQh7NEoF5yl4x4FsEBr4W55elLxs6QFcyxm--dBg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=XgdwAu)
+      * [Presentation](https://drive.google.com/file/d/1pVRyH4NIsoHoiVvH7rb7fmDcn-4gqjH6/view?usp=drive_link)
+
+   * Day 2
+      * [part 1](https://elengmenofiaedu-my.sharepoint.com/:v:/g/personal/amir_ibrahim_el-eng_menofia_edu_eg/ESOLOaPbTR1Enl-u3iIU4qwB0AdHAa-xen3XHT4a2FTzgg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=Ci1FrK)
+      * [part 2](https://elengmenofiaedu-my.sharepoint.com/:v:/g/personal/amir_ibrahim_el-eng_menofia_edu_eg/EWBRMDe0_KlLpVODcTp7pzsBit1RgZQuIdD8hRuWSAfxHg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=QHtzin)
+      * [Presentation](https://drive.google.com/file/d/1PfCn5h_1gnV5kI6EddrteJBAyPdWXf50/view?usp=drive_link)
+
+## [Task](https://jobhacker-community.slack.com/files/U050Y2C5YJU/F05PQU6L9KL/image.png)
+</p>
+</details>
+<details>
+    <summary>
+        <h2>Solid Principles</h2>
+    </summary>
+    <p>
+
+   * [Article](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
+   * [Article](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/)
+   * [Video](https://lnkd.in/daaHPJF)
+   * [Video](https://lnkd.in/dFB8FgNK)
+
+</p>
+</details>
+<details>
+    <summary>
+        <h2> Design Patterns</h2>
+    </summary>
+    <p>
+
+  * [Singleton, Factory, builder, adapter](https://refactoring.guru/)
+  * [video 12, 13, 14, 15, 17](https://www.youtube.com/watch?v=-UQND--CVew&list=PLd-dOEgzBpGnt3GuEszo_piQq52XSqAmj)
+</p>
+</details>
+<details>
+    <summary>
+        <h2>HTML & CSS</h2>
+    </summary>
+    <p>
+
+* Study
+   * [HTML](https://www.w3schools.com/html/)
+   * [HTML tutorial](https://www.youtube.com/watch?v=6QAELgirvjs&list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
+   * [CSS](https://www.w3schools.com/w3css/defaulT.asp)
+   * [CSS tutorial](https://www.youtube.com/watch?v=X1ulCwyhCVM&list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe)
+</p>
+</details>
+<details>
+    <summary>
+        <h2>Angular</h2>
+    </summary>
+    <p>
+
+* Day 1
+   * [Part 1](https://elengmenofiaedu-my.sharepoint.com/:v:/g/personal/amir_ibrahim_el-eng_menofia_edu_eg/EQgezZPP_ktLuGmIqbtCNKkBJOgtWjCdwLVUPsv0Bh3u2A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=cUQrqI)
+   * [Part 2](https://elengmenofiaedu-my.sharepoint.com/:v:/g/personal/amir_ibrahim_el-eng_menofia_edu_eg/EXKKCi6Nit5IgUHE-ItnBBABuhAVBGVqg-Vx-vfAZamFDQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=QrBWgu)
+
+* Day 2
+   * [Part 1](https://elengmenofiaedu-my.sharepoint.com/:v:/g/personal/amir_ibrahim_el-eng_menofia_edu_eg/EUuyzpibe1ZGjtgCo3nc-_cBbjTdGfgpi-l-WHrplpfzmA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=xWpTC6)
+   * [Part 2](https://elengmenofiaedu-my.sharepoint.com/:v:/g/personal/amir_ibrahim_el-eng_menofia_edu_eg/EX37WkaP9aBGg7ojSSuDQK4B38S4yW2oaSpIzRWvHiLvFA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=ANCqul)
+
+* Day 3
+   * [Part 1](https://elengmenofiaedu-my.sharepoint.com/:v:/g/personal/amir_ibrahim_el-eng_menofia_edu_eg/Ef4guJe6rUhOvLC-8EIjj7ABUQewQK4p6SoWtqxzJWPswA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=CW1RfY)
+   * [Part 2](https://elengmenofiaedu-my.sharepoint.com/:v:/g/personal/1900193_el-eng_menofia_edu_eg/EaPYvr_ucONGn0gvPdTckH0B4Nu1JGBaj9zY_oD0KyrGJg?e=YICu5v&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+   * [Part 3](https://elengmenofiaedu-my.sharepoint.com/:v:/g/personal/1900193_el-eng_menofia_edu_eg/ER9w49lWzWFEpYhb3-XyVgIBlQ7JjwLQPIbc3XI4kiiW-Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19&e=64ijHU)
+   * [Part 4](https://elengmenofiaedu-my.sharepoint.com/:v:/g/personal/amir_ibrahim_el-eng_menofia_edu_eg/ESmFmnPDgY1Pg6qaE4UtOwYBNJF3k3dVe2mEVwFmRenu3w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=z2h0je)
+
+## [Task](https://drive.google.com/drive/folders/1m1BLzKENzypThEXD5uaz55259bJnfmah?usp=sharing)
+
+</p>
+</details>
+<details>
+    <summary>
+        <h2>Soft Skills</h2>
+    </summary>
+    <p>
+
+   * [Session of CVs](https://drive.google.com/drive/folders/1niQRKy6EPZzvVbL_h-hPq76e_35JU1Pr?usp=sharing)
+   * [Soft Skills](https://shorturl.at/nsHOU)
+   * [Samples of mail body for jobs](https://docs.google.com/document/d/1EFZtdqmbJq2ZgscTJkdLsxgjsbT6VMPByOsGlfhGkPA/edit?usp=sharing)
+</p>
+</details>
+
+<details>
+    <summary>
+        <h2>Technical skills</h2>
+    </summary>
+    <p>
+        
+   * [interview Questions](https://www.interviewbit.com/technical-interview-questions/)
+   * [cheat sheet](https://www.linkedin.com/posts/yash-garg-5333a5215_java-cheet-sheet-activity-7076764331412963328--AmU?utm_source=share&utm_medium=member_ios)
+   * [Recommend Arabic videos resource from #030 JAVA - Introduction to Object-Oriented](https://www.youtube.com/playlist?list=PLCInYL3l2AagY7fFlhCrjpLiIFybW3yQv)
+</p>
+</details>
