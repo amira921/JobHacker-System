@@ -1,2 +1,1 @@
-# JobHacker-System
-This repo for JobHacker Community tasks.
+# Final Project: E-Commerce Website
