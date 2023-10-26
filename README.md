@@ -255,7 +255,7 @@ Read the number again if the input is incorrect.
 
 <details>
     <summary>
-        <h2>XML & Maven</h2>
+        <h2>3. XML & Maven</h2>
     </summary>
     <p>
         
@@ -320,6 +320,17 @@ Read the number again if the input is incorrect.
     <p>
     
 [Study](https://www.youtube.com/watch?v=Yv2xctJxE-w&list=PL4AFF701184976B25)
+[Session Record](https://elengmenofiaedu-my.sharepoint.com/personal/amir_ibrahim_el-eng_menofia_edu_eg/_layouts/15/stream.aspx?id=%2Fpersonal%2Famir%5Fibrahim%5Fel%2Deng%5Fmenofia%5Fedu%5Feg%2FDocuments%2FRecordings%2FSpring%20Data%20jpa%20%26%20Hibernate%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+    </p>
+</details>
+
+<details>
+    <summary>
+        <h2>5. Spring Security</h2>
+    </summary>
+    <p>
+
+[Session Record](https://elengmenofiaedu-my.sharepoint.com/personal/amir_ibrahim_el-eng_menofia_edu_eg/_layouts/15/stream.aspx?id=%2Fpersonal%2Famir%5Fibrahim%5Fel%2Deng%5Fmenofia%5Fedu%5Feg%2FDocuments%2FRecordings%2FSpring%20Session%2D20230821%5F204336%2DMeeting%20Recording%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
     </p>
 </details>
 
@@ -459,4 +470,41 @@ Read the number again if the input is incorrect.
    * [cheat sheet](https://www.linkedin.com/posts/yash-garg-5333a5215_java-cheet-sheet-activity-7076764331412963328--AmU?utm_source=share&utm_medium=member_ios)
    * [Recommend Arabic videos resource from #030 JAVA - Introduction to Object-Oriented](https://www.youtube.com/playlist?list=PLCInYL3l2AagY7fFlhCrjpLiIFybW3yQv)
 </p>
+</details>
+
+<h1 align="center">Projects</h1>
+
+<details>
+    <summary>
+        <h2>ToDoList</h2>
+    </summary>
+    <p>
+        
+  - Requirements:
+        - Back-end:
+           - create a todo application with the following:
+                  1. Spring Boot
+                  2. Spring Data for database connectivity
+                  3. Spring Security for user authentication and authorization
+           - Please use Postman to test your API.
+       - Front-end:
+          - [Link](https://drive.google.com/drive/folders/1m1BLzKENzypThEXD5uaz55259bJnfmah?usp=sharing)
+    </p>
+</details>
+<details>
+    <summary>
+        <h2>E-Commerce</h2>
+    </summary>
+    <p>
+        
+  - Requirements:
+      - [Link](https://docs.google.com/document/d/1z5d7lbTzDwhJZNBjIh_JszCXGG90791g/edit?usp=sharing&ouid=114624475064812527364&rtpof=true&sd=true)
+      - [ERD Discussion](https://drive.google.com/file/d/1K9eeLqja8pWSV3ks6DCTBmGUVBDbn2-S/view?usp=drive_link)
+      - MapStruct
+          - [link 1](https://mapstruct.org/)
+          - [link 2](https://www.javaguides.net/2022/12/spring-boot-mapstruct-example-tutorial.html)
+          - [link 3](https://www.youtube.com/watch?v=41YHBUkwcD0&list=PLMkr7X9JBPp4fc02yWxKsbYdLyBeiO4wt)
+        
+        
+    </p>
 </details>
