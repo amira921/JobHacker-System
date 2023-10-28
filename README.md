@@ -320,6 +320,7 @@ Read the number again if the input is incorrect.
     <p>
     
 [Study](https://www.youtube.com/watch?v=Yv2xctJxE-w&list=PL4AFF701184976B25)
+
 [Session Record](https://elengmenofiaedu-my.sharepoint.com/personal/amir_ibrahim_el-eng_menofia_edu_eg/_layouts/15/stream.aspx?id=%2Fpersonal%2Famir%5Fibrahim%5Fel%2Deng%5Fmenofia%5Fedu%5Feg%2FDocuments%2FRecordings%2FSpring%20Data%20jpa%20%26%20Hibernate%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
     </p>
 </details>
@@ -351,7 +352,7 @@ Read the number again if the input is incorrect.
 </p>
 </details>
 
-## [Spring all resources](https://drive.google.com/drive/folders/19kztglIOL6YEva1rvMA_lRZkNb5Dec_V)
+## [Spring all resources in Drive](https://drive.google.com/drive/folders/19kztglIOL6YEva1rvMA_lRZkNb5Dec_V)
 
 
 <h1 align="center">Important Topics</h1>
@@ -479,16 +480,17 @@ Read the number again if the input is incorrect.
         <h2>ToDoList</h2>
     </summary>
     <p>
-        
-  - Requirements:
-        - Back-end:
-           - create a todo application with the following:
-                  1. Spring Boot
-                  2. Spring Data for database connectivity
-                  3. Spring Security for user authentication and authorization
-           - Please use Postman to test your API.
-       - Front-end:
-          - [Link](https://drive.google.com/drive/folders/1m1BLzKENzypThEXD5uaz55259bJnfmah?usp=sharing)
+
+* Requirements:
+  * Back-end:
+    * create a todo application with the following:
+      - Spring Boot
+      - Spring Data for database connectivity
+      - Spring Security for user authentication and authorization
+    * Please use Postman to test your API.
+
+ * Front-end:
+    * [Link](https://drive.google.com/drive/folders/1m1BLzKENzypThEXD5uaz55259bJnfmah?usp=sharing)
     </p>
 </details>
 <details>
@@ -498,7 +500,8 @@ Read the number again if the input is incorrect.
     <p>
         
   - Requirements:
-      - [Link](https://docs.google.com/document/d/1z5d7lbTzDwhJZNBjIh_JszCXGG90791g/edit?usp=sharing&ouid=114624475064812527364&rtpof=true&sd=true)
+      - [Document](https://docs.google.com/document/d/1z5d7lbTzDwhJZNBjIh_JszCXGG90791g/edit?usp=sharing&ouid=114624475064812527364&rtpof=true&sd=true)
+      - [Video](https://drive.google.com/file/d/1lUAEL65qzT9q_QQMIilxDTQgKas1Tkel/view)
       - [ERD Discussion](https://drive.google.com/file/d/1K9eeLqja8pWSV3ks6DCTBmGUVBDbn2-S/view?usp=drive_link)
       - MapStruct
           - [link 1](https://mapstruct.org/)
