@@ -507,7 +507,7 @@ Read the number again if the input is incorrect.
           - [link 1](https://mapstruct.org/)
           - [link 2](https://www.javaguides.net/2022/12/spring-boot-mapstruct-example-tutorial.html)
           - [link 3](https://www.youtube.com/watch?v=41YHBUkwcD0&list=PLMkr7X9JBPp4fc02yWxKsbYdLyBeiO4wt)
-        
+      - [RabbitMQ](https://www.youtube.com/watch?v=0--Ll3WHMTQ)
         
     </p>
 </details>
